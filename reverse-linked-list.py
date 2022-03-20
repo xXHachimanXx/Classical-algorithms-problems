@@ -1,3 +1,7 @@
+"""
+Doc with the sketch: https://docs.google.com/document/d/1doWymv3t48r-qyE-V4lPOZdcKr1CSVpzEwualRI0ZPo/edit
+"""
+
 class Node:
     def __init__(self, data):
         self.data = data
